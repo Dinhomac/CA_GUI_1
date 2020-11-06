@@ -17,7 +17,7 @@ public class CA_GUI_1 {
     public static void main(String[] args) {
         // TODO code application logic here
     
-    System.out.println("fuck off");
+    System.out.println("happy days");
     
     }
        
